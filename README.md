@@ -1,5 +1,8 @@
 ## modrn pos using bootstrap
-  using bootstrap,HTML
+  using bootstrap,HTML.
+  
+  
+  this Point of Sale is a **web based** point of sale system.
   
   ### this the **Home page** in pos
   
