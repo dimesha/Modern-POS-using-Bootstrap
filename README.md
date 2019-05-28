@@ -3,5 +3,5 @@
   
   
   
-  ![GitHub Logo](/images/logo.png)
+  ![GitHub Logo](https://raw.githubusercontent.com/dimesha/Modern-POS-using-Bootstrap/master/img/web1.png)
   
